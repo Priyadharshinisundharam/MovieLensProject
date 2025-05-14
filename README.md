@@ -13,3 +13,5 @@ The dataset (movies_ratings.csv) contains 105,339 records with the following key
 **Visual Sutdio Code** – for analysis and cleaning the dataset
 
 **PowerBI** - for Visualization and create the dashboard
+# Power BI Dashboard
+![image](https://github.com/user-attachments/assets/b87d3172-c8ca-453e-9101-6e97fa9aba67)
