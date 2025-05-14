@@ -4,7 +4,9 @@ This project utilizes the popular MovieLens dataset to analyze user ratings and 
 The dataset (movies_ratings.csv) contains 105,339 records with the following key fields:
 
 *Movie Details*
+
 *User Details*
+
 *Ratings Info*
 
 # Tools Used
